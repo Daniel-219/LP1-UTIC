@@ -2,6 +2,8 @@ nombre = "Daniel"
 apellido = "Rodriguez"
 edad = 26
 peso = 65.5
+
+print("El nombre es {}". format(nombre))
 print(type(nombre))
 print(type(edad))
 print(type(peso))
