@@ -2,7 +2,7 @@ nombre = "Daniel"
 apellido = "Rodriguez"
 edad = 26
 peso = 65.5
-
+# array o arreglo
 print("El nombre es {}". format(nombre))
 print(type(nombre))
 print(type(edad))
